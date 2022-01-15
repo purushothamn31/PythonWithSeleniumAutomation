@@ -3,7 +3,6 @@
 
 #two strings are said to be anagram if we can form the first string by arranging the characters of another string
 #surya,yasur
-#dad,dad
 
 value1 = input('enter first strings : ')
 value2 = input('enter second string : ')
